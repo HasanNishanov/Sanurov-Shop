@@ -1,0 +1,10 @@
+package com.company.enums;
+
+public enum AdminStatus {
+    CLICKED_ADD_PRODUCT,
+    SELECT_CATEGORY_FOR_ADD_PRODUCT,
+    ENTERED_PRODUCT_NAME,
+    ENTERED_PRODUCT_PRICE,
+    WRITE_TEXT_TO_ADD,
+    DELETE_PRODUCT,
+}
